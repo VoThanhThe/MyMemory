@@ -1,0 +1,1 @@
+../../../../../node_modules/@walletconnect/react-native-compat/ios/RNWalletConnectModule.h
